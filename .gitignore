@@ -1,0 +1,4 @@
+data/
+anaconda_projects/
+*.py[cod]
+.ipynb_checkpoints/
